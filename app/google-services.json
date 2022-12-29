@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37422958002",
+    "project_id": "quencils",
+    "storage_bucket": "quencils.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37422958002:android:679d48d059cab3b48a10ab",
+        "android_client_info": {
+          "package_name": "com.ankur.quencils"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37422958002-jm0nqhn7pqkb7mtankgmq560reu4afra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeISMTnzssCXI9p2oYTNkenPRyB1MApPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37422958002-jm0nqhn7pqkb7mtankgmq560reu4afra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
